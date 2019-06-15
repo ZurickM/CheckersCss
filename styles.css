@@ -1,0 +1,46 @@
+.purplebox{
+    height:500px ;
+    width:500px ;
+    background-color:purple
+}
+.green{
+    height:400px ;
+    width:820px ;
+    background-color:white;
+}
+.black{
+    height:200px ;
+    width:200px ;
+    background-color: black;
+    display: inline-block;
+    padding: 0px;
+}
+.yel{
+    height:200px ;
+    width:200px ;
+    background-color: yellow;
+    display: inline-block;
+    padding: 0px
+
+}
+.red{
+    height:200px ;
+    width:200px ;
+    background-color: red;
+    display: inline-block
+
+}
+
+.blue{
+    height:200px ;
+    width:200px ;
+    background-color: blue;
+    display: inline-block
+}
+
+.orange{
+    height:100px ;
+    width:100px ;
+    background-color: orange;
+    display: inline-block
+}
